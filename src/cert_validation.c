@@ -15,7 +15,7 @@
 
 int main() {
 
-    printf("Started and completed\n");
+    printf("Started \n and \ncompleted\n");
     exit(0);
 
 }
