@@ -5,4 +5,6 @@
 #ifndef CERT_TEST_CERT_VALIDATION_H
 #define CERT_TEST_CERT_VALIDATION_H
 
+#include <stdlib>
+
 #endif //CERT_TEST_CERT_VALIDATION_H
