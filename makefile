@@ -1,6 +1,6 @@
 build:
-  echo "build"
+	echo "build"
 clean:
-  echo "clean"
+	echo "clean"
 run: clean build
-  echo "run"
+	echo "run"
